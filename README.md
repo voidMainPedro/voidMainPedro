@@ -1,4 +1,14 @@
-<header> 
+<header class="one">
+  <h1 align="center">
+    <figure> 
+      <img src="https://github.com/voidMainPedro/images-others/blob/main/teucu.gif" width="800" height="350">
+    </figure>
+  </h1>
+<header>
+
+  <br>
+
+  <header class="two"> 
   <h1> Hello you! <br> Bem vindo ao meu perfil! </h1>
   <h2 align="center">
     <figure> 
